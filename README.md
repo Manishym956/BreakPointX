@@ -36,7 +36,7 @@ BreakPointX transforms the debugging experience by providing a rich, interactive
 
 ## Demo
 
-![BreakPointX Demo](https://via.placeholder.com/800x45)
+![BreakPointX Demo](Screenshot 2025-05-17 201440.png)
 
 ## Installation
 
