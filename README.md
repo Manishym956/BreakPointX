@@ -1,7 +1,7 @@
 # BreakPointX: Interactive Code Debugger
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200" alt="BreakPointX Logo" width="200" height="200">
+  <img src="./images/breakpointx-logo.png" alt="BreakPointX Logo" width="200" height="200">
 </p>
 
 <p align="center">
@@ -36,7 +36,8 @@ BreakPointX transforms the debugging experience by providing a rich, interactive
 
 ## Demo
 
-![BreakPointX Demo](Screenshot 2025-05-17 201440.png)
+![BreakPointX Demo - Interactive Code Debugging Interface](./images/Demo.png)
+*Interactive debugging session showing variable state tracking and execution flow*
 
 ## Installation
 
